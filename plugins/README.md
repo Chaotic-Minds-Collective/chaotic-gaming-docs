@@ -1,3 +1,5 @@
 # Chaotic Gaming Plugin Ecosystem
 
-This directory contains the central plugin catalogue, standards and implementation contracts. See [PLUGIN_CATALOG.md](PLUGIN_CATALOG.md).
+Central plugin catalogue and standards:
+- [Plugin Catalogue](PLUGIN_CATALOG.md)
+- [ATLAS 30-Mod Replacement Matrix](ATLAS_MOD_REPLACEMENT_MATRIX.md)
