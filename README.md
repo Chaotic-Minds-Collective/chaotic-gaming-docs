@@ -1,12 +1,18 @@
 # Chaotic Gaming Documentation
 
-Architecture, API contracts, developer onboarding, operations and game-specific integration guides.
+Central architecture, API, developer, security and operations documentation for Chaotic Gaming.
 
-## Project map
+## Project structure
+- `chaotic-gaming-core`: shared Core API and PostgreSQL migrations
+- `chaotic-gaming`: existing public website/player portal starting point
+- `glitch-bot`: existing independent Discord bot
+- `chaotic-gaming-sdk`: shared API and event contracts
+- `chaotic-gaming-atlas`: ATLAS adapter
+- `chaotic-gaming-7dtd`: 7 Days to Die adapter
+- `chaotic-gaming-ark`: future ARK: Survival Evolved adapter
 
-- [Foundation architecture](architecture/FOUNDATION.md)
-- [Repository map](architecture/REPOSITORY_MAP.md)
-- [Security baseline](security/BASELINE.md)
-- [Implementation roadmap](roadmap/ROADMAP.md)
+## Principles
+Free-first, staged rollout, least privilege, no production changes during development, and no paid services without explicit approval.
 
-Documentation describes intended behavior. A documented capability is not considered implemented until its code, tests and operational behavior have been verified.
+## Repository map
+See [architecture/REPOSITORY_MAP.md](architecture/REPOSITORY_MAP.md) for responsibilities and dependency direction across the project.
