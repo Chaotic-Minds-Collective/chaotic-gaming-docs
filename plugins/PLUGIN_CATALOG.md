@@ -60,7 +60,13 @@ Use the built-in dedicated-server Web API and event stream first for monitoring,
 
 Initial candidates: Server Status; Sessions & Statistics; Announcements; Chat Bridge; Admin Toolkit; Audit Log; Player Reports; Events; Rewards; Leaderboards; Backup Coordinator; Configuration Manager; Anti-Abuse; Economy; Starter Kits (only if a safe server-side delivery mechanism exists).
 
-Use XML modlets for small server-synced config changes. Use C# ModAPI/Harmony only when an external adapter or XML cannot deliver the feature. Document server/client/EAC/crossplay impact for every package.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:d27d8646fb8c5804c68a7754953ad49886b2f66121334ec62c81a8603e3bc9a9 -->
+
+Use XML modlets for small server-synced config changes. Treat XML modlet crossplay compatibility as unverified until tested on the exact target game build and client platforms. Use C# ModAPI/Harmony only when an external adapter or XML cannot deliver the feature. Document server/client/EAC/crossplay impact for every package.
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 ## ARK (later)
 Design adapter contracts for clusters, maps, survivors, tribes, transfers, sessions and server-side events. Do not make ARK a launch dependency.
