@@ -21,7 +21,13 @@ Discord role membership does not automatically grant Core permissions.
 
 - Passwords use Argon2id.
 - Opaque player session tokens are stored as hashes.
-- Service tokens are high entropy and stored as hashes; the cleartext is shown once at creation.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:cf96790209d937386b665c47b0aef47af2b2c830fed2467d5045ba8c461a5c79 -->
+
+- Service tokens are high entropy. Core stores only hashes for server-side verification and shows the cleartext once at creation; applications may retain bearer tokens in approved secret storage for authentication after restart.
+
+<!-- /coderabbit-ai-generated:v1 -->
 - Use a distinct service credential per application and environment.
 - Rotate credentials by creating a replacement, switching the service, then revoking the old one.
 - Never put service tokens or database credentials in browser code or game clients.

@@ -2,7 +2,13 @@
 
 ## Credentials
 - Secrets must be stored in approved secret storage/environment configuration, never committed.
-- Service tokens are random, high-entropy, scoped, revocable and stored only as hashes.
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:4972eaceaf2861ee836aabc1559ae4bc80bc534d3ba2be09bd4ab61c4c472514 -->
+
+- Service tokens are random, high-entropy, scoped and revocable. Core stores only hashes for server-side verification; applications may retain bearer tokens in approved secret storage for authentication after restart.
+
+<!-- /coderabbit-ai-generated:v1 -->
 - Rotate credentials and revoke compromised tokens.
 - Each app/game adapter has a distinct service identity.
 
