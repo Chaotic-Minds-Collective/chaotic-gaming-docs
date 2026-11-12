@@ -1,15 +1,11 @@
 # Chaotic Gaming Documentation
 
-Central architecture, API, developer, security and operations documentation for Chaotic Gaming.
+Architecture, implementation plans, security standards and operator guides for the Chaotic Gaming platform.
 
-## Project structure
-- `chaotic-gaming-core`: shared Core API and PostgreSQL migrations
-- `chaotic-gaming`: existing public website/player portal starting point
-- `glitch-bot`: existing independent Discord bot
-- `chaotic-gaming-sdk`: shared API and event contracts
-- `chaotic-gaming-atlas`: ATLAS adapter
-- `chaotic-gaming-7dtd`: 7 Days to Die adapter
-- `chaotic-gaming-ark`: future ARK: Survival Evolved adapter
-
-## Principles
-Free-first, staged rollout, least privilege, no production changes during development, and no paid services without explicit approval.
+## Project principles
+- PC-first, staged launch.
+- First game integrations: ATLAS and 7 Days to Die.
+- ARK: Survival Evolved prepared as the next game adapter.
+- One shared Core, modular game integrations, separate website and Discord bot applications.
+- Free-first infrastructure. No paid services or production deployments without explicit approval.
+- Changes are developed on feature branches and reviewed through pull requests.
