@@ -2,14 +2,29 @@
 
 | Repository | Responsibility |
 | --- | --- |
-| `cmg-gaming-site` | Existing public-facing Next.js website |
-| `cmg-discord-glitch-bot` | Existing independent Discord bot |
+| `cmg-gaming-site` | Public-facing Chaotic Minds Gaming website and player portal |
+| `cmg-discord-glitch-bot` | Discord community bot for verification, onboarding, tickets, moderation and status |
 | `cmg-atlas-core-plugin` | Shared Core API, database migrations, auth, events and platform modules |
-| `cmg-sdk` | Shared TypeScript API/event/adapter contracts |
+| `cmg-sdk` | Shared TypeScript API, event and adapter contracts |
 | `cmg-atlas-plugin` | ATLAS adapter and server-side integration |
 | `cmg-7dtd-plugin` | 7 Days to Die adapter and server-side integration |
-| `cmg-ark-plugin` | Future ARK adapter |
-| `cmg-docs` | Architecture and operator documentation |
+| `cmg-ark-plugin` | Future ARK: Survival Evolved adapter |
+| `cmg-atlas-resource-map-plugin` | ATLAS island, resource and travel map application |
+| `cmg-atlas-restart-overlay-plugin` | ATLAS restart countdown overlay and schedule utility |
+| `cmg-atlas-status-host-plugin` | Planned ATLAS status-host component; currently a placeholder |
+| `cmg-admin-console-plugin` | ATLAS administration console and server operations dashboard |
+| `cmg-atlas-admin-plugin` | ATLAS admin tools, backend, Discord bot, frontend and backup utilities |
+| `cmg-atlas-tribes-plugin` | Cluster-aware tribes and group management |
+| `cmg-atlas-commerce-plugin` | Multi-grid shop, wallet, entitlements and reward delivery |
+| `cmg-atlas-connect-plugin` | Cross-grid chat, announcements and Discord relay |
+| `cmg-atlas-player-plugin` | Player utilities, recovery and progression |
+| `cmg-atlas-world-plugin` | World/grid policy, safe zones and gameplay rules |
+| `cmg-atlas-sentinel-plugin` | Read-only health classification, security monitoring and alerts |
+| `cmg-atlas-gridforge-plugin` | ATLAS configuration authoring, map editing and resource coverage |
+| `cmg-atlas-adventures-plugin` | Quests, challenges and progression systems |
+| `cmg-docs` | CMG architecture, security standards and operator documentation |
+
+The names above are the approved target slugs. GitHub repository slug changes are a separate migration step; until those changes are complete, existing GitHub links and clone URLs continue to use the current repository names.
 
 Repositories are private unless explicitly changed. Existing website and bot repositories are retained rather than duplicated.
 
