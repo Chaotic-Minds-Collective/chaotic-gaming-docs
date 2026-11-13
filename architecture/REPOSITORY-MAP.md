@@ -26,13 +26,13 @@
 
 All names above are canonical repository slugs now live on GitHub. Use these names for repository links and clone URLs.
 
-The following table preserves selected historical repository names for migration traceability. It is not an exhaustive rename list; the complete 33-entry mapping is maintained in the [organization naming standard](https://github.com/Chaotic-Minds-Collective/.github/blob/main/BRAND-AND-REPOSITORY-NAMING.md). Use the Target slug column for current links and clone URLs.
+The following table preserves selected historical repository names for migration traceability. It is not an exhaustive rename list; the complete 33-entry mapping is maintained in the [organization naming standard](https://github.com/Chaotic-Minds-Collective/.github/blob/main/BRAND-AND-REPOSITORY-NAMING.md). Use the Canonical target slug column for current links and clone URLs.
 
 | Canonical target slug | Historical repository name |
 | --- | --- |
 | `cmg-gaming-site` | `chaotic-gaming` |
 | `cmg-discord-glitch-bot` | `glitch-bot` |
-| `cmg-atlas-core-plugin` | `chaotic-minds-gaming-atlas-core` |
+| `cmg-atlas-core-plugin` | `chaotic-gaming-core` |
 | `cmg-sdk` | `chaotic-gaming-sdk` |
 | `cmg-atlas-plugin` | `chaotic-gaming-atlas` |
 | `cmg-7dtd-plugin` | `chaotic-gaming-7dtd` |
