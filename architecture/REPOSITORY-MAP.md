@@ -12,3 +12,7 @@
 | `chaotic-gaming-docs` | Architecture and operator documentation |
 
 Repositories are private unless explicitly changed. Existing website and bot repositories are retained rather than duplicated.
+
+## Dependency direction
+
+Website, Discord bot and game adapters depend on versioned Core API contracts and the SDK. They do not depend on Core's internal database schema or share database credentials.
