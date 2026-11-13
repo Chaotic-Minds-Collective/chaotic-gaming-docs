@@ -1,4 +1,4 @@
-# Chaotic Gaming Documentation
+# Chaotic Minds Gaming Documentation
 
 Architecture, implementation plans, security standards and operator guides for the Chaotic Gaming platform.
 
