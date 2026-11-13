@@ -1,8 +1,8 @@
-# Chaotic Gaming Platform Architecture
+# Chaotic Minds Gaming Platform Architecture
 
 ## 1. System overview
 
-Chaotic Gaming is a multi-game PC community platform. The website, Discord bot and game servers share a central identity and integration layer without sharing database credentials or runtime processes.
+Chaotic Minds Gaming (CMG) is a multi-game PC community platform. The website, Discord bot and game servers share a central identity and integration layer without sharing database credentials or runtime processes.
 
 ### Applications
 - **Core** — TypeScript modular monolith; PostgreSQL system of record; REST API; authorization; commerce and event processing.
