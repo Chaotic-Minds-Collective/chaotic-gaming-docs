@@ -1,6 +1,6 @@
 # Security Baseline
 
-These requirements apply to every Chaotic Gaming application, service, integration and payment flow.
+These requirements apply to every Chaotic Minds Gaming application, service, integration and payment flow.
 
 ## Payment webhooks
 
