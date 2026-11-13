@@ -1,4 +1,4 @@
-# Chaotic Gaming Plugin Ecosystem
+# Chaotic Minds Gaming Plugin Ecosystem
 
 ## Mission
 Build an owned, modular plugin ecosystem that replaces useful third-party mod functionality without copying protected code, assets, names, or proprietary designs. Every plugin must have a clear purpose, documented compatibility, safe defaults, and a removal path.
@@ -24,7 +24,7 @@ P0 = foundation / first release; P1 = high-value launch feature; P2 = later expa
 | CG-CORE-003 | Audit & Activity Log | P0 | Record administrative actions, economy changes and plugin events |
 | CG-CORE-004 | Permissions Bridge | P0 | Map platform roles to explicitly scoped game/server permissions |
 | CG-CORE-005 | Server Status & Health | P0 | Online state, player counts, uptime, latency and health history |
-| CG-CORE-006 | Player Identity Link | P0 | Link game identities to verified Chaotic Gaming accounts |
+| CG-CORE-006 | Player Identity Link | P0 | Link game identities to verified Chaotic Minds Gaming accounts |
 | CG-CORE-007 | Announcements & Scheduler | P1 | Scheduled notices, restart warnings and event broadcasts |
 | CG-CORE-008 | Chat Bridge | P1 | Moderated game chat relay to approved Discord channels |
 | CG-CORE-009 | Player Sessions & Statistics | P1 | Join/leave history, playtime and supported player statistics |
