@@ -1,6 +1,6 @@
 # ATLAS Mod Replacement Matrix
 
-This matrix maps the 30-item local Workshop inventory to original Chaotic Gaming capabilities. It is a clean-room replacement plan, not a promise that every feature can be reproduced through a server plugin. Exact behavior must be verified against the local package, available server hooks, and licensing.
+This matrix maps the 30-item local Workshop inventory to original Chaotic Minds Gaming capabilities. It is a clean-room replacement plan, not a promise that every feature can be reproduced through a server plugin. Exact behavior must be verified against the local package, available server hooks, and licensing.
 
 ## Important inventory findings
 
