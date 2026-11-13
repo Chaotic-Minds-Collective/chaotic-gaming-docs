@@ -1,6 +1,6 @@
 # Chaotic Minds Gaming Documentation
 
-Architecture, implementation plans, security standards and operator guides for the Chaotic Gaming platform.
+Architecture, implementation plans, security standards and operator guides for the Chaotic Minds Gaming (CMG) platform.
 
 ## Project principles
 - PC-first, staged launch.
