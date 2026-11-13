@@ -1,4 +1,4 @@
-# Chaotic Gaming Plugin Ecosystem
+# Chaotic Minds Gaming Plugin Ecosystem
 
 Central plugin catalogue and standards:
 - [Plugin Catalogue](PLUGIN_CATALOG.md)

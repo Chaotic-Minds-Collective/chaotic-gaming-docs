@@ -2,7 +2,7 @@
 
 ```mermaid
 flowchart LR
-  WEB[Website / Player Portal] -->|HTTPS REST| CORE[Chaotic Gaming Core]
+  WEB[Website / Player Portal] -->|HTTPS REST| CORE[CMG Core]
   BOT[Glitch Discord Bot] -->|HTTPS REST| CORE
   ATLAS[ATLAS Adapter] -->|HTTPS REST| CORE
   TD[7DTD Adapter] -->|HTTPS REST| CORE
