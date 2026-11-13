@@ -1,4 +1,4 @@
-# Chaotic Gaming Implementation Plan
+# Chaotic Minds Gaming Implementation Plan
 
 ## Phase 1 — Foundation
 
