@@ -24,7 +24,7 @@
 | `cmg-atlas-adventures-plugin` | Quests, challenges and progression systems |
 | `cmg-docs` | CMG architecture, security standards and operator documentation |
 
-The names above are the approved target slugs. GitHub repository slug changes are a separate migration step; until those changes are complete, existing GitHub links and clone URLs continue to use the current repository names.
+All names above are canonical repository slugs now live on GitHub. Use these names for repository links and clone URLs.
 
 The previous repository map listed the following names for these targets. Confirm the current GitHub slug before cloning.
 
@@ -32,7 +32,7 @@ The previous repository map listed the following names for these targets. Confir
 | --- | --- |
 | `cmg-gaming-site` | `chaotic-gaming` |
 | `cmg-discord-glitch-bot` | `glitch-bot` |
-| `cmg-atlas-core-plugin` | `chaotic-gaming-core` |
+| `cmg-atlas-core-plugin` | `chaotic-minds-gaming-atlas-core` |
 | `cmg-sdk` | `chaotic-gaming-sdk` |
 | `cmg-atlas-plugin` | `chaotic-gaming-atlas` |
 | `cmg-7dtd-plugin` | `chaotic-gaming-7dtd` |
