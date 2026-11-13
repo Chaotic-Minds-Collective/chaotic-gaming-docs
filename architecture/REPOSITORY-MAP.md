@@ -26,9 +26,9 @@
 
 All names above are canonical repository slugs now live on GitHub. Use these names for repository links and clone URLs.
 
-The previous repository map listed the following names for these targets. Confirm the current GitHub slug before cloning.
+The following table preserves selected historical repository names for migration traceability. It is not an exhaustive rename list; the complete 33-entry mapping is maintained in the [organization naming standard](https://github.com/Chaotic-Minds-Collective/.github/blob/main/BRAND-AND-REPOSITORY-NAMING.md). Use the Target slug column for current links and clone URLs.
 
-| Target slug | Previously documented name |
+| Canonical target slug | Historical repository name |
 | --- | --- |
 | `cmg-gaming-site` | `chaotic-gaming` |
 | `cmg-discord-glitch-bot` | `glitch-bot` |
@@ -39,7 +39,7 @@ The previous repository map listed the following names for these targets. Confir
 | `cmg-ark-plugin` | `chaotic-gaming-ark` |
 | `cmg-docs` | `chaotic-gaming-docs` |
 
-Repositories are private unless explicitly changed. Existing website and bot repositories are retained rather than duplicated.
+Repository visibility was not changed by the rename operation. Existing website and bot repositories were retained rather than duplicated.
 
 ## Dependency direction
 
