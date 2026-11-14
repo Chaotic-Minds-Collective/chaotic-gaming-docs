@@ -24,11 +24,11 @@
 | `cmg-atlas-adventures-plugin` | Quests, challenges and progression systems |
 | `cmg-docs` | CMG architecture, security standards and operator documentation |
 
-The names above are the approved target slugs. GitHub repository slug changes are a separate migration step; until those changes are complete, existing GitHub links and clone URLs continue to use the current repository names.
+All names above are canonical repository slugs now live on GitHub. Use these names for repository links and clone URLs.
 
-The previous repository map listed the following names for these targets. Confirm the current GitHub slug before cloning.
+The following table preserves names from a previous repository map. These names do not necessarily identify repositories that were renamed. For the complete 33-entry mapping of original to canonical repository names, see the [organization naming standard](https://github.com/Chaotic-Minds-Collective/.github/blob/main/BRAND-AND-REPOSITORY-NAMING.md). Use the Canonical target slug column for current links and clone URLs.
 
-| Target slug | Previously documented name |
+| Canonical target slug | Previously documented name |
 | --- | --- |
 | `cmg-gaming-site` | `chaotic-gaming` |
 | `cmg-discord-glitch-bot` | `glitch-bot` |
@@ -39,7 +39,7 @@ The previous repository map listed the following names for these targets. Confir
 | `cmg-ark-plugin` | `chaotic-gaming-ark` |
 | `cmg-docs` | `chaotic-gaming-docs` |
 
-Repositories are private unless explicitly changed. Existing website and bot repositories are retained rather than duplicated.
+Repository visibility was not changed by the rename operation. Existing website and bot repositories were retained rather than duplicated.
 
 ## Dependency direction
 
